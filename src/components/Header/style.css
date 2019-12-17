@@ -1,0 +1,13 @@
+.header {
+    margin: 0;
+    height: 100px;
+    background: aqua;
+
+    display: flex;
+    justify-content: center;
+}
+
+.header__title {
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
